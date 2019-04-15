@@ -1,0 +1,193 @@
+.log{
+    background-color: green !important;
+}
+
+.home{
+    color: green !important;
+}
+
+#join{
+    border-radius: 20px;
+    border-color: green;
+    width: 100px;
+}
+
+.nav{
+    color: black !important;
+}
+
+#akha{
+    background: linear-gradient(rgba(19,19,19,0.8), rgba(19,19,19,0.8)) url("akha.jpg") no-repeat;
+    opacity: 0.7;
+
+}
+.akha{
+    padding: 0px !important;
+}
+.why{
+    font-size: 3em;
+    font-weight: 600;
+}
+
+h1{
+    color: #0A0909;  
+}
+
+.p{
+    color: #0A0909;  
+}
+
+.carouselpicture{
+    height: 450px;
+}
+.textarea{
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+}
+#testarea{
+    height: 600px;
+    width:100%;
+}
+#videoarea{
+    height: 270px;
+    width: 400px;
+    top: 30px;
+    float: left;
+    margin-top:2.25%;
+    margin-left: 5%;
+}
+#blahblah{
+    height: 270px;
+    width: 50% ;
+    top: 30px;
+    float: left;
+    margin-top:2%;
+    margin-left: 5%  ;
+}
+.bleh{
+    color: green !important;    
+}
+#boxthingsarea{
+    height: 500px;
+    width: 100%;
+}
+
+.boxaread{
+    padding-top: 100px;
+    margin: 10px;
+}
+
+.box{
+    width: 402px;
+    margin-bottom: 5px;
+    
+}
+#boxthingsarea div{
+    float: left;
+    height: 400px;
+    width: 27%;
+    margin-top: 25px;
+    margin-left: 4.5%;
+}
+
+
+#anotherbox {
+    height: 200px;
+    width: 100%;
+}
+
+.boxareadim{
+text-align: center;
+}
+
+.num{
+    font-size: 4em;
+    color: #188d06;
+}
+#anotherbox div{
+    float: left;
+    height: 150px;
+    width: 27%;
+    border: solid;
+    margin-top: 25px;
+    margin-left: 4.7%;
+}
+
+footer{
+    width: 100%;
+    height: 700px;
+}
+#prebottom {
+    width: 100%;
+    height: 240px;
+    background-color: white;
+    text-align: center;
+}
+
+#vismis{
+    width: 100%;
+    height: 500px;
+    background-color: #188d06;
+}
+
+
+.vim{
+    color: white;
+    margin-bottom: 100px; 
+    margin-top: 70px;
+    margin-left: 15px;
+}
+
+.card{
+    color: white;
+    height: 18rem;
+    margin-bottom: 100px; 
+    margin-top: 70px;
+    margin-right: 90px;
+    border-radius: -75px 
+}
+
+.tuff{
+    color: white;
+
+}
+#prebottom h3{
+    text-align: center;
+    margin-top: 70px;
+    color: #188d06;
+    margin-bottom: 40px;
+}#prebottom input{
+     width: 35%;
+    height: 35px;
+    padding-left: 20px;
+ }
+#prebottom button{
+     min-width:8%;
+    height: 35px;
+    color: white;
+    background-color: darkorange;
+    border-style: none;
+ }
+
+
+
+
+
+
+
+
+#bottom{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: white;
+    padding-left: 40%;
+    padding-top: 7px;
+}
+#bottom span{
+    font-size: 20px ;
+}#bottom i{
+    padding-right: 5    px;
+}
