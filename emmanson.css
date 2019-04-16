@@ -1,0 +1,96 @@
+.wrapper {
+    height: 1200px;
+    width: auto;
+}
+
+#nav {
+    height: 55px;
+    width: 650px;
+    color: green;
+    background-color: #ffffff;
+    font: 20px arial;
+    padding-left: 5%;
+    padding-top: 20px;
+    text-emphasis: bold;
+}
+.nav{color: green;}
+
+#links {
+    display: inline;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.carousel-inner {
+    width: 100%;
+    height: 50%;
+    text-align: left;
+    background-image: linear-gradient(rgba(10, 10, 10, 0.7), rgba(10, 10, 10, 0.7)), url(3.jpg);
+}
+
+#video {
+    width: 60%;
+    height: 450px;
+    padding: 5%;
+    float: left;
+}
+
+#whyUseIt {
+    width: 40%;
+    height: 440px;
+    margin-top: 5%;
+    background-color: #ffffff;
+    float: right;
+}
+
+#deck {
+    width: 100%;
+    height: 400px;
+    background-color: #ffffff;
+    float: left;
+}
+
+#visionMission {
+    width: 100%;
+    height: 440px;
+    background-color: green;
+    color: white;
+    padding: 5%;
+    margin-top: 30px;
+}
+
+.card-group {
+    margin-top: 30px;
+}
+
+#whiteBox {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    float: right;
+}
+
+#innerVision {
+    width: 60%;
+    height: 350px;
+    background-color: green;
+    color: white;
+    float: left;
+}
+
+#newsLetter {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    color: green;
+    text-align: center;
+}
+
+.carousel-caption{
+
+padding: 200px 0px !important ;
+text-align: left;
+
+
+
+}
