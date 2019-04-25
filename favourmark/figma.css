@@ -1,0 +1,55 @@
+.body1{
+    background-color: gray;
+    width: cover;
+    height: 400px; 
+}
+footer{
+    background-color: rgb(41, 184, 240);
+    width: cover; 
+    height: 300px; 
+   }
+.foot{
+    margin-left: 50px;
+    color: white;
+    padding-top: 50px;
+    }
+.abovefoot{
+    height: 400px;
+}
+h4{
+    position: absolute;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: normal;
+    color: #3D9EE3;
+    padding-top: 20px;
+    margin-left: 30px;
+    
+}
+.new-card{
+    padding-top: 80px;
+    margin-left: 30px;
+}
+.upnext{
+ position: relative;
+}
+.img1{
+    position: relative;
+    width: 99.9%;
+    height: 500px;
+}
+@media (min-width: 576px) {
+    footer {
+
+    }
+    .foot {
+ 
+    }
+  }
+  h3{
+      text-align: center;
+      color: skyblue;
+      margin-top: 20px;
+  }
