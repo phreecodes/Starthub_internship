@@ -1,0 +1,243 @@
+#socials {
+    padding-left: 9%;
+    display: flex;
+    align-content: right;
+}
+
+#nav1 {
+    padding-right: 11%;
+    height: 5%;
+}
+
+.figma {
+    background-color: #373746;
+    width: 100%;
+    height: auto;
+}
+
+#hfLogo {
+    padding-top: 5%;
+    height: 100px;
+    width: 30%;
+    background-color: wheat;
+    border-radius: 5%;
+    border: none;
+    margin-left: 35%;
+}
+
+#circle {
+    outline-color: white;
+    outline-width: 20px;
+    border-radius: 50%;
+    float: left;
+    color: white;
+    height: 120px;
+    width: 120px;
+    text-align: center;
+    font-size: 70px;
+    position: absolute;
+    border: 6px double #FFFFFF;
+    box-sizing: border-box;
+}
+
+#circlesDiv {
+    height: auto;
+    width: 100%;
+    margin-top: 5%;
+    color: white;
+}
+
+#label {
+    padding-top: 150px;
+    height: 80px;
+    width: 150px;
+    outline-width: 20px;
+    border-radius: 50%;
+    float: left;
+    color: white;
+    text-align: center;
+    text-decoration-color: white;
+    font-size: 18px;
+    font-family: Tahoma;
+    text-align: left;
+    margin-left: 5%;
+}
+
+table {
+    height: auto;
+    width: 100%;
+}
+
+#quality {
+    border-style: solid;
+    border-width: 5px 0px 0px 0px;
+    border-color: white;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    width: 90%;
+    margin-left: 0.8%;
+}
+
+#search {
+    outline-style: solid;
+    outline-color: blue;
+    width: 40%;
+    font-size: 5rem;
+}
+
+#search:hover {
+    outline-style: solid;
+    outline-width: 5px;
+    outline-color: blue;
+    box-shadow: 5px 5px 5px blue;
+}
+
+.courses {
+    float: left;
+    width: 10%;
+    margin: 5%;
+    height: auto;
+    box-shadow: 5px 5px 5px 5px gray;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.courses:hover {
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: blue;
+    box-shadow: 5px 5px 5px blue;
+}
+
+.quote {
+    color: #373746;
+    background-color: grey;
+    height: auto;
+    width: 70%;
+    text-align: center;
+    float: left;
+    padding-top: 48px;
+}
+
+#arrows {
+    color: #373746;
+    background-color: grey;
+    height: auto;
+    width: 15%;
+    text-align: center;
+    float: left;
+}
+
+#arrow1 {
+    color: lightblue;
+    background-color: rgb(218, 216, 216);
+    height: 49px;
+    width: 50px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 40px;
+}
+
+#tips {
+    color: blue;
+}
+
+.cards {
+    color: #373746;
+    background-color: grey;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    float: left;
+    padding-left: 30px;
+}
+
+#cardText {
+    color: #ffffff;
+}
+
+#cardCell {
+    margin: 20px;
+}
+
+.pixBoard {
+    color: #373746;
+    background-color: wheat;
+    height: auto;
+    width: 100%;
+    text-align: right;
+    float: left;
+    padding: 5%;
+    background: linear-gradient(0deg, rgba(249, 178, 2, 0.1), rgba(249, 178, 2, 0.1)), url(7096.jpg), rgba(245, 245, 245, 0.5);
+}
+
+#pix {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-image: url(img.png);
+    overflow: hidden;
+    padding: 30px;
+}
+
+#pixText {
+    width: 650px;
+    height: 75px;
+    background-color: white;
+    border-radius: ;
+    color: rgb(85, 84, 84);
+    font-family: tahoma;
+    padding: 10px;
+    margin-right: 20%
+}
+
+#pixText1 {
+    width: 150px;
+    height: auto;
+    background-color: white;
+    color: lightblue;
+    float: right;
+    clear: both;
+}
+
+#pixTable {
+    text-align: left;
+    padding-left: 10%;
+}
+
+.videos {
+    color: #373746;
+    background-color: white;
+    height: auto;
+    width: 100%;
+    text-align: left;
+    float: left;
+    padding: 5%;
+}
+
+footer {
+    color: #ffffff;
+    background-color: #3D9EE3;;
+    height: 400px;
+    width: 100%;
+    text-align: left;
+    float: left;
+    padding-top: 2%;
+    padding-right: 60%;
+    padding-left: 4%;
+}
+.now{ height: 0px;
+    width: ;}
+
+    #fun{margin-bottom: 20%;
+        text-align: center;
+        margin-top: -10px;
+          }
+
+
+    #doublearrow{
+     background-image: url(circle.png);
+     height: 10%
+    }
