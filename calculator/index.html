@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> JavaScript Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="calc">
+        <form name="form">
+            <input type="text" name="textview" class="display" disabled>
+        </form>
+        <table>
+            <tr>
+                <td><input type="button" class="button symbol fr" value="C" onclick="dan()"></td>
+                <td><input type="button" class="button symbol fr" value="sqr" onclick="squar()"></td>
+                <td><input type="button" class="button symbol fr" value="sqrt" onclick="ruth()"></td>
+                <td><input type="button" class="button symbol fr" value="%"onclick="insertOperator('%')"></td>
+                <td><input type="button" class="button symbol fr" value="del" onclick="back()"></td>
+            </tr>
+            <tr>
+                <td><input type="button" class="button number" value="7" onclick="insertNum(7)"></td>
+                <td><input type="button" class="button number" value="8" onclick="insertNum(8)"></td>
+                <td><input type="button" class="button number" value="9" onclick="insertNum(9)"></td>
+                <td><input type="button" class="button symbol" value="X" onclick="insertOperator('*')"></td>
+                <td><input type="button" class="button symbol" value="Cos" onclick="cos()"></td>
+                <td><input type="button" class="button symbol lc" value="Cos^-1" onclick="costeta()"></td>
+            </tr>
+            <tr>
+                <td><input type="button" class="button number" value="4" onclick="insertNum(4)"></td>
+                <td><input type="button" class="button number" value="5" onclick="insertNum(5)"></td>
+                <td><input type="button" class="button number" value="6" onclick="insertNum(6)"></td>
+                <td><input type="button" class="button symbol" value="-" onclick="insertOperator('-')"></td>
+                <td><input type="button" class="button symbol" value="Tan" onclick="tan()"></td>
+                <td><input type="button" class="button symbol lc" value="Tan^-1" onclick="tanteta()"></td>
+            </tr>
+            <tr>
+                <td><input type="button" class="button number" value="1" onclick="insertNum(1)"></td>
+                <td><input type="button" class="button number" value="2" onclick="insertNum(2)"></td>
+                <td><input type="button" class="button number" value="3" onclick="insertNum(3)"></td>
+                <td><input type="button" class="button symbol" value="+" onclick="insertOperator('+')"></td>
+                <td><input type="button" class="button symbol" value="Sin" onclick="sine()"></td>
+                <td><input type="button" class="button symbol lc" value="Sin^-1" onclick="sinteta()"></td>
+            </tr>
+            <tr>
+                <td><input type="button" class="button symbol lr" value="." onclick="insertOperator('.')"></td>
+                <td><input type="button" class="button symbol lr" value="0" onclick="insertNum(0)"></td>
+                <td><input type="button" class="button symbol lr" value="/" onclick="insertOperator('/')"></td>
+                <td><input type="button" class="button symbol lr" value="π" onclick=""></td>
+                <td><input type="button" class="button symbol equal lr" value="=" onclick="equal('')"></td>
+                <td></td>
+            </tr>
+        </table>
+
+    </div>
+</body>
+</html>

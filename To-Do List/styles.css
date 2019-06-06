@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(245, 245, 102);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+input {
+    margin-left: 37%;
+    width: 300px;
+}
+
+li {
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+
+li:hover {
+    text-decoration: line-through;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border-style: none;
+}
